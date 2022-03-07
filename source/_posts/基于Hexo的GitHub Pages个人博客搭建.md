@@ -1,8 +1,8 @@
-
 ---
 title: 基于Hexo的GitHub Pages个人博客搭建
 description: 基于Hexo的GitHub Pages个人博客搭建，使用NEXT主题
 ---
+
 
 ## 1.创建一个个人主页仓库
 
@@ -152,6 +152,8 @@ local_search:
   enable: true
 ```
 
+
+
 ### 9.2.MathJax数学公式
 
 编辑 **主题配置文件**主题的`_config.yml`）， 将 `mathjax` 下的 `enable` 设定为 `true` 即可。 `cdn` 用于指定 MathJax 的脚本地址，默认是 MathJax 官方提供的 CDN 地址
@@ -162,6 +164,8 @@ mathjax:
   enable: true
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 ```
+
+
 
 ### 9.3.字数统计与阅读时间
 
@@ -184,9 +188,22 @@ post_wordcount:
   separated_meta: true
 ```
 
-在
+
 
 ## 10.修改主题样式（可选）
 
 修改`theme`下对于主题下的` _config.yml`文件中的一些信息以定制样式
 
+
+
+## 11.参考资料
+
+[GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
+
+[Documentation | Hexo](https://hexo.io/docs/)
+
+[NexT 使用文档 (iissnan.com)](http://theme-next.iissnan.com/)
+
+[使用 Hexo+GitHub 搭建个人免费博客教程（小白向） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/60578464)
+
+[Next主题设置 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/424930588)

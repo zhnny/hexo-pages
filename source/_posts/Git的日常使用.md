@@ -2,6 +2,11 @@
 ---
 title: Git的快速使用
 description: Git以及GitHub快速入门
+categories: 
+- 开发工具
+tags:
+- Git
+- Github
 ---
 
 ## 1. Git简介

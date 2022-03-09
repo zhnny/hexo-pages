@@ -1,6 +1,12 @@
 ---
 title: 基于Hexo的GitHub Pages个人博客搭建
 description: 基于Hexo的GitHub Pages个人博客搭建，使用NEXT主题
+categories: 
+- web前端
+tags:
+- Hexo
+- NEXT
+- GitHub
 ---
 
 
